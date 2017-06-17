@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+    <!-- Log configs (use full paths to the log files to specify location) -->
+    <!--<entry key=<Client code>>URL=<Url to status API>,USERNAME=<username>,PASSWORD=<encrypted password>,PROTOCOL=<XMLRPC|JSON>,SSLENABLED=<0|1>,SSLCERTPATH=</path/to/certificate.crt></entry> -->
+    <entry key="SCBKE">URL=http://localhost/StatusPusherReceiver/,USERNAME=x,PASSWORD=cc17b946d69dfb1c0931eee6383566c7,PROTOCOL=XMLRPC,METHOD=,SSLENABLED=0,SSLCERTPATH=</entry>
+   
+</properties>
